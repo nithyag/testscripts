@@ -8,9 +8,9 @@ trigger:
 
 strategy:
   matrix:
-    ubuntu_16.04:
+    ubuntu1:
       imageName: 'ubuntu-16.04'
-    ubuntu_14.04:
+    ubuntu2:
       imageName: 'ubuntu-14.04'
 
 pool:
